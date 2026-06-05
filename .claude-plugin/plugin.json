@@ -1,0 +1,32 @@
+{
+  "name": "threejs-skills",
+  "version": "1.0.0",
+  "description": "Three.js 3D graphics skills",
+  "author": {
+    "name": "PartMeAI",
+    "email": "partmeai@gmail.com"
+  },
+  "homepage": "https://github.com/full-statck-skills/threejs-skills",
+  "repository": "https://github.com/full-statck-skills/threejs-skills",
+  "source": "./",
+  "skills": [
+    "./skills/threejs-animation",
+    "./skills/threejs-audio",
+    "./skills/threejs-camera",
+    "./skills/threejs-controls",
+    "./skills/threejs-dev-setup",
+    "./skills/threejs-geometries",
+    "./skills/threejs-helpers",
+    "./skills/threejs-lights",
+    "./skills/threejs-loaders",
+    "./skills/threejs-materials",
+    "./skills/threejs-math",
+    "./skills/threejs-node-tsl",
+    "./skills/threejs-objects",
+    "./skills/threejs-postprocessing",
+    "./skills/threejs-renderers",
+    "./skills/threejs-scenes",
+    "./skills/threejs-textures",
+    "./skills/threejs-webxr"
+  ]
+}
